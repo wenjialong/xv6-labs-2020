@@ -7,5 +7,5 @@ int main(int argc, char **argv) {
         printf("usage: sleep <ticks>\n");
     }
     sleep(atoi(argv[1]));
-    exit(0);
+    exit(0); 
 }
